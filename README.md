@@ -1,5 +1,7 @@
 # RoboticsSWEngineer_HomeServiceRobot
 
+<img src= ./slam.png width=50% height=50%>>
+
 Project file structure:
 
 Folders under /src:
