@@ -1,5 +1,8 @@
 # RoboticsSWEngineer_HomeServiceRobot
 
+
+Combine SLAM and navigation into a home service robot that can autonomously transport objects in the Gazebo environment with map
+
 <img src= ./slam.png width=50% height=50%>
 
 Project file structure:
