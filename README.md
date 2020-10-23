@@ -1,6 +1,6 @@
 # RoboticsSWEngineer_HomeServiceRobot
 
-<img src= ./slam.png width=50% height=50%>>
+<img src= ./slam.png width=50% height=50%>
 
 Project file structure:
 
